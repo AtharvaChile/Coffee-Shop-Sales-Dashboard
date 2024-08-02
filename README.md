@@ -45,11 +45,11 @@ Month (numeric).
 ### 2. Pivot Sheet
 The Pivot sheet provides aggregated data, including:
 
-Row Labels: Grouping categories (e.g., day of the week).
-Sum of transaction_qty: Total quantity of transactions.
-Count of transaction_id: Number of transactions.
-Sales: Total sales amount.
-Additional Metrics: Various metrics broken down by product and other categories.
+* Row Labels: Grouping categories (e.g., day of the week).
+* Sum of transaction_qty: Total quantity of transactions.
+* Count of transaction_id: Number of transactions.
+* Sales: Total sales amount.
+* Additional Metrics: Various metrics broken down by product and other categories.
 ### 3. Dashboard Sheet
 The dashboard provides an interactive and user-friendly interface for exploring the coffee shop's sales data. It includes the following sections:
 
