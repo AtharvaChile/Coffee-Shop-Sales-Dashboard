@@ -6,24 +6,42 @@ This project analyzes sales data from a coffee shop. The data spans various prod
 ### 1. Data Sheet
 The Data sheet contains the following columns:
 
-transaction_id: Unique identifier for each transaction.
-transaction_date: Date of the transaction.
-transaction_time: Time of the transaction.
-store_id: Identifier for the store.
-store_location: Location of the store.
-product_id: Identifier for the product.
-transaction_qty: Quantity of the product purchased.
-unit_price: Price per unit of the product.
-product_category: Category of the product (e.g., Coffee, Tea).
-product_type: Type of product within the category.
-product_detail: Detailed description of the product.
-Size: Size of the product.
-Total_bill: Total amount paid for the transaction.
-Month Name: Name of the month in which the transaction occurred.
-Day Name: Name of the day of the week on which the transaction occurred.
-Hour: Hour of the day when the transaction occurred.
-Day of Week: Day of the week (numeric).
-Month: Month (numeric).
+#### transaction_id:
+Unique identifier for each transaction.
+#### transaction_date:
+Date of the transaction.
+#### transaction_time: 
+Time of the transaction.
+#### store_id: 
+Identifier for the store.
+#### store_location: 
+Location of the store.
+#### product_id: 
+Identifier for the product.
+#### transaction_qty: 
+Quantity of the product purchased.
+#### unit_price:
+Price per unit of the product.
+#### product_category:
+Category of the product (e.g., Coffee, Tea).
+#### product_type:
+Type of product within the category.
+#### product_detail:
+Detailed description of the product.
+#### Size:
+Size of the product.
+#### Total_bill:
+Total amount paid for the transaction.
+#### Month Name:
+Name of the month in which the transaction occurred.
+#### Day Name:
+Name of the day of the week on which the transaction occurred.
+#### Hour: 
+Hour of the day when the transaction occurred.
+#### Day of Week:
+Day of the week (numeric).
+#### Month:
+Month (numeric).
 ### 2. Pivot Sheet
 The Pivot sheet provides aggregated data, including:
 
@@ -53,7 +71,7 @@ Sales by Location: A map or chart showing sales distribution across different lo
 ## Usage
 This dataset can be used for:
 
-Sales trend analysis.
-Customer behavior analysis.
-Product performance evaluation.
-Store performance comparison.
+1. Sales trend analysis.
+2. Customer behavior analysis.
+3. Product performance evaluation.
+4. Store performance comparison.
